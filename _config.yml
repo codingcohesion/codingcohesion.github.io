@@ -2,4 +2,3 @@ auto: true
 markdown: kramdown
 pygments: true
 permalink: /blog/:title
-# theme: jekyll-theme-tactile
