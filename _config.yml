@@ -1,4 +1,3 @@
 auto: true
-markdown: kramdown
-pygments: true
+markdown: rdiscount
 permalink: /blog/:title
